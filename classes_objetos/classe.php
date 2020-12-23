@@ -1,4 +1,4 @@
-<div class="title">Primeira Classe</div>
+<div class="titulo">Primeira Classe</div>
 
 <?php
 

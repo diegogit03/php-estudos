@@ -24,7 +24,12 @@
                         </li>
                         <li>
                             <a href="exercicio.php?dir=classes_objetos&file=desafio_classe_data">
-                                Primeira Classe
+                                Classe Data
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">
+                                Construtor e Destrutor
                             </a>
                         </li>
                     </ul>

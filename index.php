@@ -22,6 +22,11 @@
                                 include
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=includes&file=include_funcao">
+                                Include Função
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo azul-escuro">

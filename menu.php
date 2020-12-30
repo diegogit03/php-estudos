@@ -1,4 +1,14 @@
 <nav class="modulos">
+    <div class="modulo laranja-escuro">
+        <h3>10. Includes</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=namespaces&file=basico">
+                    Exemplo Basico
+                </a>
+            </li>
+        </ul>
+    </div>
     <div class="modulo roxo-escuro">
         <h3>9. Includes</h3>
         <ul>

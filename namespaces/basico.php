@@ -14,6 +14,7 @@ define('outrocontexto\constante4', 456);
 echo constante1. '<br />';
 echo \constante2. '<br />';
 echo constante2. '<br />';
+// Aqui em baixo daria erro poís sem o namespace absoluto ficaria: contexto\contexto\constante3
 // echo contexto\constante3; '<br/>';
 echo \contexto\constante3. '<br/>';
 echo constant(__NAMESPACE__. '\constante3'). '<br/>';

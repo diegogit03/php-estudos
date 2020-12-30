@@ -12,6 +12,11 @@
                     Sub namespaces
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=namespaces&file=use_as">
+                    Use As
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo roxo-escuro">

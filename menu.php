@@ -7,6 +7,11 @@
                     Sessão
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=sessao&file=gerenciando_sessao">
+                    Gerenciando sessão
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo verde">

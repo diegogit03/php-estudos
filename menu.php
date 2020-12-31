@@ -17,6 +17,11 @@
                     Desafio intdiv
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=gerenciador_erros">
+                    Error handler
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo laranja-escuro">

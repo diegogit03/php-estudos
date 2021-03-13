@@ -12,6 +12,11 @@
                    Datas #02
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=escreverArquivo">
+                   Escrever arquivo
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo vermelho">

@@ -22,6 +22,11 @@
                    Ler arquivo
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=upload">
+                   Upload
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo vermelho">

@@ -22,6 +22,11 @@
                    Consultar Registros
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=excluir_1">
+                    Excluir registro #01
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo roxo">

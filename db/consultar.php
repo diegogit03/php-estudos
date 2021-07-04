@@ -26,6 +26,7 @@ $conexao->close();
 
 <table class="table table-hover table-striped">
     <thead class="thead-dark">
+        <th>Codigo</th>
         <th>Nome</th>
         <th>Nascimento</th>
         <th>Email</th>
@@ -33,6 +34,7 @@ $conexao->close();
     <tbody>
         <?php foreach($registros as $registro): ?>
             <tr>
+                <td><?= $registro['id'] ?></td>
                 <td><?= $registro['nome'] ?></td>
                 <td><?= date('d/m/Y', strtotime($registro['nascimento'])) ?></td>
                 <td><?= $registro['email'] ?></td>

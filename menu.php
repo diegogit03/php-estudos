@@ -1,4 +1,14 @@
 <nav class="modulos">
+     <div class="modulo roxo">
+        <h3>14. Formulario</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=formularios&file=formulario">
+                   Formulário
+                </a>
+            </li>
+        </ul>
+    </div>
     <div class="modulo azul">
         <h3>13. API</h3>
         <ul>

@@ -1,6 +1,6 @@
 <?php
 
-function novaConexao($banco = 'estudo_php') {
+function novaConexao($banco = 'estudos_php') {
     // se a porta for diferente de 3306 também coloquea depois do ip
     // ex: 127.0.0.1:3307
     $servidor = '127.0.0.1';

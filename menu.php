@@ -7,6 +7,11 @@
                    Criar banco
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=criar_tabela">
+                   Criar tabela
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo roxo">

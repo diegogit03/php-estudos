@@ -27,6 +27,11 @@
                     Excluir registro #01
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=excluir_2">
+                    Excluir registro #02
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo roxo">
